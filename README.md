@@ -60,4 +60,8 @@ would have to replace the entire grade's scores with null values.
    ![SchoolType](https://user-images.githubusercontent.com/95730890/150708266-b38c1508-b3c4-4178-a7b8-c447acb24f9e.PNG)
   
   
-  ### Summary-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been reaplced with NaNs.
+  ### Summary
+  
+   The only changes in the school district analysis after reading and  math scores have been replaced are the overall district scores mentioned at the very top of this 
+   analysis. It looks as though changes the scores to null values did not affect the district or the school very much. But in a larger analysis, comparing hundreds if not          thousands of school, this could definitely be  different story.
+
