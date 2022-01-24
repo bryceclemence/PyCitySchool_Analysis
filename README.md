@@ -42,15 +42,22 @@ would have to replace the entire grade's scores with null values.
   ### Math and reading scores by grade?
   
   
-  ### Scored by school spending.
+  ### Scores by school spending.
   
+  Changing the math and reading values of the ninth-grader's at Thomas High School had no change on how well the district did based on the spending ranges per student.
+  Below is an image of how well the district performed based on how much the school was budgetted per student. There was no change from our initial analysis to our new analysis.
+  ![SchoolSpending](https://user-images.githubusercontent.com/95730890/150708293-fbc77582-11e3-490e-91d4-9b82a617b68b.PNG)
   
   ### Scores by school size?
-  
-  
+   Changing the math and reading values of the ninth-grader's at Thomas High School had no change on how well the district did based on how many students attended the school.
+   Below is an image of how well the district performed based on student population. There was no change from our initial analysis to our new analysis.
+  ![SchoolSize](https://user-images.githubusercontent.com/95730890/150708310-5b464481-2d58-434d-b5e3-82f7bbff7e51.PNG)
+
   
   ### Scores by school type?
-  
+   Changing the math and reading values of the ninth-grader's at Thomas High School had no change on how well the district did based on the type of school.
+   Below is an image of how well the different types of school performed compared to one another, the results for our initial analysis and our new analysis are the same.
+   ![SchoolType](https://user-images.githubusercontent.com/95730890/150708266-b38c1508-b3c4-4178-a7b8-c447acb24f9e.PNG)
   
   
   # Summary-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been reaplced with NaNs.
