@@ -19,7 +19,7 @@ would have to replace the entire grade's scores with null values.
     -The average reading score stayed the same at 81.9
     -The percent passing math went down 0.2% from 75% to 74.8%
     -The percent passing reading went down 0.3% from 86% to 85.7%
-    -The overatll percent passing both test went down 0.1% from 65% to 64.9%
+    -The overall percent passing both test went down 0.1% from 65% to 64.9%
   
   
   ### How is the school summary affected?
@@ -60,4 +60,4 @@ would have to replace the entire grade's scores with null values.
    ![SchoolType](https://user-images.githubusercontent.com/95730890/150708266-b38c1508-b3c4-4178-a7b8-c447acb24f9e.PNG)
   
   
-  # Summary-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been reaplced with NaNs.
+  ### Summary-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been reaplced with NaNs.
