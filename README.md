@@ -40,7 +40,7 @@ would have to replace the entire grade's scores with null values.
   ### How does replacing the ninth-grade scores affect the following?
   
   ### Math and reading scores by grade?
-  
+  The math and reading scores for each grade were unaffected except of course for the 9th graders at Thomas High School, where all the graders were null.
   
   ### Scores by school spending.
   
