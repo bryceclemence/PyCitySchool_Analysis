@@ -14,6 +14,7 @@ would have to replace the entire grade's scores with null values.
 ## Results
   ### How is the district summary affected
   First, by replacing the 9th grader's reading and math scores from Thomas High School with null values the district was affected in the following ways;
+  
     -The average math score went down 0.1 from 79.0 to 78.9
     -The average reading score stayed the same at 81.9
     -The percent passing math went down 0.2% from 75% to 74.8%
